@@ -9,13 +9,14 @@ A qFlipper-style Windows app for devices running **Bruce Firmware**.
 * Upload files to your device
 * Control your Bruce device 
 * Flash firmware directly from the app
-* Use BruceLabs directly from app (Comming Soon)
+* Use BruceLabs directly from app
+* Ready & Error Status
 
 ---
 
 ## About
 
-qBruce is a qFlipper like app that makes it easy to manage your Bruce device in one place.
+qBruce is a qFlipper like app that makes it easy to manage & control your Bruce device in one place.
 
 ---
 
@@ -25,4 +26,3 @@ qBruce is a qFlipper like app that makes it easy to manage your Bruce device in 
 *To enable location services, press win + r & type "ms-settings:privacy-location", then tick first 2 checkboxs*
 
 ---
-
